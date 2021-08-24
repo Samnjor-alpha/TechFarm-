@@ -196,7 +196,7 @@
             </div>
             <div class="card-grid-space">
 
-                <a class="card" href="" style="--bg-img: url('https://images.unsplash.com/photo-1605289355446-7aafcd144fc2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=747&q=80')">
+                <a class="card"  style="--bg-img: url('https://images.unsplash.com/photo-1605289355446-7aafcd144fc2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=747&q=80')">
                     <div>
                         <h3>Excavation</h3>
                         <p> List one of your product's benefits here. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
