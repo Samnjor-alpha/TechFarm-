@@ -177,7 +177,7 @@
                 <a class="card"  style="--bg-img: url(https://images.unsplash.com/photo-1568048478323-26b5c074ca70?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=334&q=80)">
                     <div>
                         <h3>Demarcation</h3>
-                        <p>The syntax of a language is how it works. How to actually write it. Learn HTML syntax…</p>
+                        <p> List one of your product's benefits here. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
                         <div class="date">6 Oct 2017</div>
 
                     </div>
@@ -188,7 +188,7 @@
                 <a class="card"  style="--bg-img: url('https://images.unsplash.com/photo-1628158145409-9e222b56cc0b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=813&q=80')">
                     <div>
                         <h3>LandScaping Surveying</h3>
-                        <p>Learn about some of the most common HTML tags…</p>
+                        <p> List one of your product's benefits here. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
                         <div class="date">9 Oct 2017</div>
 
                     </div>
@@ -199,7 +199,7 @@
                 <a class="card" href="" style="--bg-img: url('https://images.unsplash.com/photo-1605289355446-7aafcd144fc2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=747&q=80')">
                     <div>
                         <h3>Excavation</h3>
-                        <p>Learn how to use links and images along with file paths…</p>
+                        <p> List one of your product's benefits here. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
                         <div class="date">14 Oct 2017</div>
 
                     </div>
@@ -216,7 +216,7 @@
 
         <h2 class="section-title">Gallery</h2>
 
-       
+
   <article class='gallery'>
   <a class='gallery-link' href='https://unsplash.it/1000/1400?image=1081'>
     <figure class='gallery-image'>
@@ -260,10 +260,111 @@
       <figcaption>Photo caption</figcaption>
     </figure>
   </a>
- 
+
 </article>
 </div><!--//about-section-->
 </div>
+    <div id="contact" class="about-section">
+        <div class="container text-center">
+
+
+            <h2 class="section-title">Get In Touch</h2>
+            <div class=" animated fadeIn">
+
+                <div class="row">
+ <div class="col-md-6 col-sm-12">
+                            <iframe width="100%" height="320px;" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.4121216392462!2d36.965319605736354!3d-1.2790281845649374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f6ca6e39f3edf%3A0x643c2ce07cabfb72!2sCorner%20House%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1629799857726!5m2!1sen!2ske" allowfullscreen></iframe>
+
+                        </div>
+
+                        <div class="col-md-6 col-sm-12">
+                            <form action="" class="contact-form" method="post">
+
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="name" name="nm" placeholder="Name" required="" autofocus="">
+                                </div>
+
+
+                                <div class="form-group form_left">
+                                    <input type="email" class="form-control" id="email" name="em" placeholder="Email" required="">
+                                </div>
+
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="phone" onkeypress="return event.charCode >= 48 && event.charCode <= 57" maxlength="10" placeholder="Mobile No." required="">
+                                </div>
+                                <div class="form-group">
+                                    <textarea class="form-control textarea-contact" rows="5" id="comment" name="FB" placeholder="Feedback goes here..." required=""></textarea>
+                                    <br>
+                                    <button class="btn btn-block btn-send">Send </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container second-portion">
+                    <div class="row">
+                        <!-- Boxes de Acoes -->
+                        <div class="col-xs-12 col-sm-6 col-lg-4">
+                            <div class="box">
+                                <div class="icon">
+                                    <div class="image"><i class="fa fa-envelope fa-3x" aria-hidden="true"></i></div>
+                                    <div class="info">
+                                        <h3 class="title">Email</h3>
+                                        <p>
+                                            <i class="fa fa-envelope" aria-hidden="true"></i> &nbsp inquiry@techfarmengineering.com
+
+
+                                        </p>
+
+                                    </div>
+                                </div>
+                                <div class="space"></div>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-12 col-sm-6 col-lg-4">
+                            <div class="box">
+                                <div class="icon">
+                                    <div class="image"><i class="fa fa-mobile fa-3x" aria-hidden="true"></i></div>
+                                    <div class="info">
+                                        <h3 class="title">CONTACT</h3>
+                                        <p>
+                                            <i class="fa fa-mobile" aria-hidden="true"></i> &nbsp (+254)-9624XXXXX
+
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="space"></div>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-12 col-sm-6 col-lg-4">
+                            <div class="box">
+                                <div class="icon">
+                                    <div class="image"><i class="fa fa-map-marker fa-3x" aria-hidden="true"></i></div>
+                                    <div class="info">
+                                        <h3 class="text-center title">ADDRESS</h3>
+                                        <p>
+                                            <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp 15/3 Junction Plot
+                                          CornerHouse ,Bypass Nairobi -00100
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="space"></div>
+                            </div>
+                        </div>
+                        <!-- /Boxes de Acoes -->
+
+                        <!--My Portfolio  dont Copy this -->
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div><!--//about-section-->
+    </div>
 <? include 'navs/footer.php' ?>
 
 <!-- Javascript -->
@@ -271,4 +372,3 @@
 
 </body>
 </html>
-

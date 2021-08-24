@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Open Sans', arial, sans-serif;
-  color: #494d55;
+  color: #002d13;
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -345,7 +345,7 @@ a:focus {
 /* ======= Hero Section ======= */
 .hero-section {
   min-height: 560px;
-  background: #494d55;
+  background: #002d13;
   position: relative;
 }
 
@@ -658,7 +658,7 @@ a:focus {
 }
 
 .features-section .intro a:hover {
-  color: #494d55;
+  color: #002d13;
 }
 
 .feature-nav {
@@ -940,7 +940,7 @@ a:focus {
 .contact-section {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: #494d55 url("../images/map.png") no-repeat center center;
+  background: #002d13 url("../images/map.png") no-repeat center center;
   color: #fff;
 }
 
@@ -1710,3 +1710,90 @@ a {
     margin: 0;
   }
 }
+
+/* Contact start */
+
+
+
+#tip
+{
+  display:none;
+}
+
+.fadeIn
+{
+  animation-duration: 3s;
+}
+
+.form-control
+{
+  border-radius:0px;
+  border:1px solid #EDEDED;
+}
+
+.form-control:focus
+{
+
+}
+
+.textarea-contact
+{
+  resize:none;
+}
+
+.btn-send
+{
+  border-radius: 0px;
+  
+  background:#ffb700;
+  color:#fff;
+}
+
+.btn-send:hover
+{
+
+  background:#40babd;
+  color:#fff;
+  transition:background 0.5s;
+}
+
+.second-portion
+{
+  margin-top:50px;
+}
+
+
+
+.box > .icon { text-align: center; position: relative; }
+.box > .icon > .image { color:#fff; position: relative; z-index: 2; margin: auto; width: 88px; height: 88px; border: 8px solid white; line-height: 88px; border-radius: 50%; background: #ffb700; vertical-align: middle; }
+.box > .icon:hover > .image { background: #40babd; color: #fff3cd }
+.box > .icon > .image > i { font-size: 36px !important; color: #fff !important; }
+.box > .icon:hover > .image > i { color: white !important; }
+.box > .icon > .info { margin-top: -24px; background: rgba(0, 0, 0, 0.04); border: 1px solid #e0e0e0; padding: 15px 0 10px 0; min-height:163px;}
+.box > .icon:hover > .info { background: rgba(0, 0, 0, 0.04); border-color: #e0e0e0; color: white; }
+.box > .icon > .info > h3.title { font-family: "Robot",sans-serif !important; font-size: 16px; color: #222; font-weight: 700; }
+.box > .icon > .info > p { font-family: "Robot",sans-serif !important; font-size: 13px; color: #666; line-height: 1.5em; margin: 20px;}
+.box > .icon:hover > .info > h3.title, .box > .icon:hover > .info > p, .box > .icon:hover > .info > .more > a { color: #222; }
+.box > .icon > .info > .more a { font-family: "Robot",sans-serif !important; font-size: 12px; color: #40babd; line-height: 12px; text-transform: uppercase; text-decoration: none; }
+.box > .icon:hover > .info > .more > a { color: #fff; padding: 6px 8px; background-color: #fff; }
+.box .space { height: 30px; }
+
+@media only screen and (max-width: 768px)
+{
+  .contact-form
+  {
+    margin-top:25px;
+  }
+
+  .btn-send
+  {
+    width: 100%;
+    padding:10px;
+  }
+
+  .second-portion
+  {
+    margin-top:25px;
+  }
+}
+/* Contact end */
