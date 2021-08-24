@@ -12,11 +12,7 @@ Soil Profiling, Excavating, Landscaping & Installation">
 <!-- Global CSS -->
 <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
 <script src="assets/js/prokit.js"></script>
-<link rel="stylesheet" href="assets\css\animate.css">
-<!-- slick slider css link -->
-<link rel="stylesheet" href="assets\css\slick.css">
-<!-- lightcase css link -->
-<link rel="stylesheet" href="assets\css\lightcase.css">
+
 <!-- Theme CSS -->
 <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
