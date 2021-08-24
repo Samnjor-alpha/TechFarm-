@@ -19,7 +19,7 @@
                     <li class="nav-item"><a class="active  nav-link scrollto" href="#about">About</a></li>
                     <li class="nav-item"><a class="nav-link scrollto" href="#services">Services</a></li>
                     <li class="nav-item"><a class="nav-link scrollto" href="#works">Works</a></li>
-                    <li class="nav-item"><a class="nav-link scrollto" href="#pricing">Gallery</a></li>
+                    <li class="nav-item"><a class="nav-link scrollto" href="#gallery">Gallery</a></li>
                     <li class="nav-item"><a class="nav-link scrollto" href="#contact">Contact us</a></li>
                 </ul><!--//nav-->
             </div><!--//navabr-collapse-->
